@@ -4,7 +4,7 @@
 * para ver o código em python completo:
 * <a href="https://colab.research.google.com/drive/1GEOwv7ac_ymrCrszQ9mywe7co-k4Nb7A?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-* Para ver aqui no GitHib é só acessar o arquivo "Inferential analysis with data from NHANES.ipynb"
+* Para ver aqui no GitHib é só acessar o arquivo "Inferential analysis with data from NHANES.ipynb" (Caso de erro é só acessar o link do código no colab ou aperta F5)
 -------
 
 ###### Contexto completo a seguir:
