@@ -1,7 +1,7 @@
 ## Análise inferencial sobre depressão, hábitos saudáveis.
 
 -------
-* para ver o código em python completo:
+* para ver o código em python completo via colab:
 * <a href="https://colab.research.google.com/drive/1GEOwv7ac_ymrCrszQ9mywe7co-k4Nb7A?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 * Para ver aqui no GitHib é só acessar o arquivo "Inferential analysis with data from NHANES.ipynb" (Caso de erro é só acessar o link do código no colab ou aperta F5)
@@ -68,4 +68,10 @@ Em base da situação abordada a parti de uma análise inferencial, se entende q
 
 De forma geral, a conclusão é que não podemos aceita o H0 (Hipótese nula) por não haver evidencias o suficiente para dizer que ter ou não ter hábitos saudáveis tem alguma relação com os nives de depressão. Podemos dizer que a depressão pode afetar pessoas com praticão hábitos saudáveis da mesmo forma que pode afeta pessoas que não praticão hábitos saudáveis.
 
-Em alguns casos o H0, teve p-valor acima de 0,05, abrindo uma possibilidade de investigar ainda mais, porem por conta da falta de mais variáveis para analisar de uma forma mais precisa, o resultado no final chega na mesma conclusão. Essa certeza veio ao se discutir o assunto com uma psicologa, todo o esclarecimento foi essencial para entender a conclusão. 
+Em alguns casos o H0, teve p-valor acima de 0,05, abrindo uma possibilidade de investigar ainda mais, porem por conta da falta de mais variáveis para analisar de uma forma mais precisa, o resultado no final chega na mesma conclusão. Essa certeza veio ao se discuti o assunto com uma psicologa, todo o esclarecimento foi essencial para entender a conclusão desse projeto.
+
+------
+# Agradecimento
+
+Deixo aqui a minha nota de agradecimento para todos os meus colegas, facilitadores e experds do curso de Data Science & Machine Learning na Tera e também a minha mentora, a Tamy Tsujimoto.
+------
