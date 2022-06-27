@@ -73,5 +73,5 @@ Em alguns casos o H0, teve p-valor acima de 0,05, abrindo uma possibilidade de i
 ------
 # Agradecimento
 
-Deixo aqui a minha nota de agradecimento para todos os meus colegas, facilitadores e experds do curso de Data Science & Machine Learning na Tera e também a minha mentora, a Tamy Tsujimoto.
+Deixo aqui a minha nota de agradecimento para todos os meus colegas, facilitadores e experds do curso de Data Science & Machine Learning na Tera e também a minha mentora, Tamy Tsujimoto.
 ------
