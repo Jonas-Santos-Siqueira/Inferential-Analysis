@@ -1,4 +1,4 @@
-## Análise inferencial sobre depressão, hábitos saudáveis.
+## Análise inferencial sobre depressão e hábitos saudáveis.
 
 -------
 * para ver o código em python completo via colab:
